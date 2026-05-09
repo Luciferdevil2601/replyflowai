@@ -33,18 +33,18 @@ ReplyFlowAI/
       not-found.tsx
     components/
       ui/
-      auth-form.tsx
-      logout-button.tsx
-      site-header.tsx
-      theme-toggle.tsx
+        auth-form.tsx
+        logout-button.tsx
+        site-header.tsx
+        theme-toggle.tsx
     lib/
       supabase/
-      constants.ts
-      gemini.ts
-      types.ts
-      utils.ts
-      validations.ts
-    middleware.ts
+        constants.ts
+        gemini.ts
+        types.ts
+        utils.ts
+        validations.ts
+      middleware.ts
   supabase/schema.sql
   .env.example
   next.config.mjs
